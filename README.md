@@ -35,20 +35,21 @@
 --------------
 🎓 **EDUCATION**
 **College Of Engineering Roorkee (Uttarakhand Technical University)**
-- *Roorkee, Uttarakhand, India
-- Bachelor of Technology in Computer Science Engineering
-- CGPA: 7.87
-- Duration: Aug 2022 - Present*
+*Roorkee, Uttarakhand, India*
+*Bachelor of Technology in Computer Science Engineering*
+*CGPA: 7.87*
+*Duration: Aug 2022 - Present*
 
 **Adarsh Bal Niketan Sr. Sec. School IIT Roorkee, Uttrakhand**
-Intermediate in PCM
-Percentage: 68.40%
-Year: 2022
 
-High School
-Percentage: 70.80%
-Year: 2020
-.## Hi there 👋
+*-Intermediate in PCM*
+*Percentage: 68.40%*
+*Year: 2022*
+
+*High School*
+*Percentage: 70.80%*
+*Year: 2020*
+
 <!---
 RAJATCHAUHAN7/RAJATCHAUHAN7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
